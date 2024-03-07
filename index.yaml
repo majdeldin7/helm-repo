@@ -9,6 +9,6 @@ entries:
     name: filestash
     type: application
     urls:
-    - https://majdeldin7.github.io/helm-repo/filestash-0.2.0.tgz
+    - https://github.com/majdeldin7/helm-repo/releases/download/filestash-0.2.0/filestash-0.2.0.tgz
     version: 0.2.0
 generated: "2024-03-07T08:37:01.860121098Z"
