@@ -72,15 +72,6 @@ resources: {}
   #   cpu: 100m
   #   memory: 128Mi
 
-livenessProbe:
-  httpGet:
-    path: /
-    port: 8443
-readinessProbe:
-  httpGet:
-    path: /
-    port: 8443
-
 autoscaling:
   enabled: false
   minReplicas: 1
