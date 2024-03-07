@@ -3,16 +3,12 @@ entries:
   filestash:
   - apiVersion: v2
     appVersion: f72b630
-    created: "2024-03-07T13:06:16.144729564Z"
+    created: "2024-03-07T13:36:02.598145471Z"
     description: A Helm chart for Kubernetes
-    digest: 1298c454d1a60c2dc392b0bd010e3fa24f663cc94669a69a54427a727864841e
+    digest: 22515109b3658e384b0dbc3ef85227abab3e5046cb01541646aa94126e5fb8fd
     name: filestash
     type: application
     urls:
-<<<<<<< HEAD
     - https://majdeldin7.github.io/helm-repo/filestash-0.2.0.tgz
-=======
-    - https://github.com/majdeldin7/helm-repo/releases/download/filestash/filestash-0.2.0.tgz
->>>>>>> 9476ec052903cce2ce0f654ab78d792d4d11357f
     version: 0.2.0
-generated: "2024-03-07T13:06:16.144031463Z"
+generated: "2024-03-07T13:36:02.596981617Z"
